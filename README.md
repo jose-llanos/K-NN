@@ -10,9 +10,9 @@ Algoritmo K-NN
 
 **Basado del libro:** Aprende Machine Learning del autor Juan Ignacio Begnato
 
-** ---------------------------------------- **
+----------------------------------------
 
-** Ejercicio Python con sklearn **
+**Ejercicio Python con sklearn**
 
 * Se tiene el archivo reviews.csv con diferentes opiniones de usuarios sobre una App (257 registros). 
 * De los diferentes campos se utilizaran las columnas wordcount y sentimentValue como características para alimentar el algoritmo K-NN.
@@ -20,7 +20,7 @@ Algoritmo K-NN
 * La columna sentimentValue indica si el comentario fue valorado como positivo o negativo (-4 hasta 4).
 * La etiqueta será Star Rating indica las estrellas que dieron los usuarios a la App, son valores discretos del 1 al 5.
 
-** Pasos a seguir
+**Pasos a seguir**
 
 1. Importar las librerías (numpy, pandas, matplotlib y sklearn).
 2. Cargar los datos.
